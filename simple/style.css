@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0 ;
+}
+body {
+  background-color: #08141e;
+  background-image: url(Bitmap.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 67.6vw 46.7vw;
+  background-image: url("Bitmap.png");
+}
+
+.menu-text {
+  font-size: 2.5vh;
+  font-family: "Franklin Gothic Medium";
+  color: rgba(177, 187, 203, 0.871);
+  line-height: 1.2;
+  text-align: left;
+  text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.65);
+  z-index: 7;
+  padding-top: 9.5vh;
+}
+
+
+.text {
+  width: 47.5vw;
+  font-size: 2vh /*13px*/;
+  font-family: "Franklin Gothic Medium";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.65);
+  margin-left: 10vw;
+}
+
+h1 {
+  font-size: 3.7vh;/*25px;*/
+  font-family: "Franklin Gothic Medium";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.65);
+  margin-left: 10vw;
+
+}
+
+main{
+  height: 80vh;
+
+}
+header{
+  height: 10vh;
+}
+.content{
+  padding-top: 10vh;
+}
+
+footer{
+  height: 10vh;
+}
+
+ul{
+  margin-left: 5.5vw;
+}
+
+.footer-content{
+  font-size: 1.7vh;
+  padding-left: 5.5vw;
+}
+
+
+
+
