@@ -1,0 +1,128 @@
+html {
+  padding: 0;
+  margin: 0;
+  min-height: 1050px;
+  min-width: 950px;
+  max-width: 1300px;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url(Layer\ 52.png), url(bg2.png);
+  background-repeat: no-repeat;
+  background-size: 75% 50%, 125.5% 100%;
+  background-position: 90% 57%, -11.5vw center;
+}
+
+.gallery {
+  padding-left: 67%;
+  margin-top: 6%;
+}
+
+.poster {
+  margin-top: 11.7%;
+  /* padding-left: 41.5%; */
+  margin-left: 40%;
+  margin-right: 50%;
+  background-color: black;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.poster-text {
+  /* padding-left: 0.5%;
+    padding-right: 1%; */
+  color: rgb(255, 174, 0);
+  /* background-color: black; */
+}
+.poster-text:hover {
+  color: rgb(255, 174, 0) !important;
+}
+
+.event {
+  padding-left: 62%;
+  margin-top: -2.5%;
+}
+.menu {
+  padding-left: 40%;
+  margin-top: 3.5%;
+}
+.forum {
+  padding-left: 85%;
+  margin-top: 2%;
+}
+.contacts {
+  padding-left: 85%;
+  margin-top: 3%;
+}
+
+.party {
+  padding-left: 6.7%;
+  margin-top: -12.5%;
+}
+.tel {
+  padding-left: 30%;
+  margin-top: 15%;
+}
+.place {
+  margin-top: 15%;
+}
+.text {
+  margin-top: -5%;
+  margin-left: 30%;
+  margin-right: 22%;
+}
+.footer-header {
+  font-size: 28px;
+  font-family: "OfficinaSerifC";
+  color: rgb(0, 0, 0);
+  line-height: 1.429;
+  text-align: left;
+}
+.footer-text {
+  font-family: Tahoma;
+  color: rgb(225, 179, 182);
+  line-height: 1.2;
+  text-align: left;
+  font-size: 14px;
+}
+.party-text {
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  width: 65%;
+  margin-top: -1%;
+}
+.party-header {
+  font-family: "Tahoma";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  width: 65%;
+  font-size: 20px;
+}
+.main-text {
+  font-size: 14px;
+  font-family: "Georgia";
+  color: rgb(197, 147, 136);
+  line-height: 1.2;
+  text-align: left;
+}
+.btn-watch {
+  text-decoration: none;
+  padding: 0.5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: rgb(255, 174, 0);
+}
+a {
+  color: black;
+  font-size: 21px;
+  font-family: "OfficinaSerifC";
+  line-height: 1.429;
+}
+
+a:hover {
+  color: black;
+}
